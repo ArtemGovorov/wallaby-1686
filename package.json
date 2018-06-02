@@ -1,0 +1,7 @@
+{
+  "name": "wallaby-1686",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}
